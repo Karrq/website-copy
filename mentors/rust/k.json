@@ -14,5 +14,13 @@
     "link_url": "https://github.com/KillTheMule/nvimpam",
     "avatar_url": null,
     "bio": "Hobbyist programmer who's got a weak spot for Rust."
-  }
+  },
+  {
+    "github_username": "Karrq",
+    "name": "Francesco Dainese",
+    "link_text": null,
+    "link_url": null,
+    "avatar_url": null,
+    "bio": "I love Rust and use it professionally. I also have experience in writing firmware in C for embedded. Always learning."
+  },
 ]
